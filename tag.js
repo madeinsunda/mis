@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="lNMFB7DEwg6-1tQFbv1rW7z96ehLGXAR76_iFHU3ebg" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109167752-1"></script>
 <script>
